@@ -1,0 +1,17 @@
+.vs/
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.user
+*.suo
+*.bak
+*.tmp
+PageLib.txt
+PageLib.csv.tmp
